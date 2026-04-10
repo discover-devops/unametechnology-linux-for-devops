@@ -2,4 +2,5 @@
 unametechnology-linux-for-devops
 
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/9cf83c4e-50ec-46ad-a8db-4bb22f5f7342" />
+<img width="1001" height="544" alt="image" src="https://github.com/user-attachments/assets/c5871365-7574-4fbd-8b2a-3845fb8e77ee" />
+
